@@ -4,63 +4,63 @@
         "id": 1,
         "first_name": "Michelle",
         "last_name": "Wood",
-        "favorite_subject": 1,
+        "favorite_topic": 1,
         "instructor": 1
       },
       {
         "id": 2,
         "first_name": "Johnathan",
         "last_name": "Werz",
-        "favorite_subject": 2,
+        "favorite_topic": 2,
         "instructor": 1
       },
       {
         "id": 3,
         "first_name": "Alan",
         "last_name": "Do",
-        "favorite_subject": 3,
+        "favorite_topic": 3,
         "instructor": 1
       },
       {
         "id": 4,
         "first_name": "Dani",
         "last_name": "Reinholz",
-        "favorite_subject": 4,
+        "favorite_topic": 4,
         "instructor": 2
       },
       {
         "id": 5,
         "first_name": "John",
         "last_name": "McNair",
-        "favorite_subject": 5,
+        "favorite_topic": 5,
         "instructor": 2
       },
       {
         "id": 6,
         "first_name": "Jonny",
         "last_name": "Martin",
-        "favorite_subject": 1,
+        "favorite_topic": 1,
         "instructor": 2
       },
       {
         "id": 7,
         "first_name": "Joseph",
         "last_name": "Polizzotto",
-        "favorite_subject": 2,
+        "favorite_topic": 2,
         "instructor": 3
       },
       {
         "id": 8,
         "first_name":"Luke",
         "last_name": "Wofford",
-        "favorite_subject": 3,
+        "favorite_topic": 3,
         "instructor": 3
       },
       {
         "id": 9,
         "first_name": "Wesley",
         "last_name": "Bryant",
-        "favorite_subject": 4,
+        "favorite_topic": 4,
         "instructor": 3
       }
     ]

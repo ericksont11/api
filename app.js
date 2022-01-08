@@ -8,8 +8,9 @@ const cors = require('cors')
 
 app.use(cors())
 
-app.get('/students', (req, res) => {
-  res.send(students)
+app.get('/students/:key', (req, res) => {
+  let params = req.params
+  res.send(params)
 })
 
 app.get('/topics', (req, res) => {

@@ -13,11 +13,7 @@
           // fetch request gets a list of all the repos for the node.js organization
           var requestUrl = 'https://student-project-api.herokuapp.com/';
         
-          fetch(requestUrl, {
-              headers: {
-                'Access-Control-Allow-Origin':'null'
-              }
-            })
+          fetch(requestUrl)
             .then(function (response) {
               return response.json();
             })

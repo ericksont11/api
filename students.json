@@ -1,0 +1,49 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "first_name": "Michelle",
+        "last_name": "Wood"
+      },
+      {
+        "id": 2,
+        "first_name": "Johnathan",
+        "last_name": "Werz"
+      },
+      {
+        "id": 3,
+        "first_name": "Alan",
+        "last_name": "Do"
+      },
+      {
+        "id": 4,
+        "first_name": "Dani",
+        "last_name": "Reinholz"
+      },
+      {
+        "id": 5,
+        "first_name": "John McNair",
+        "last_name": "Do"
+      },
+      {
+        "id": 6,
+        "first_name": "Jonny",
+        "last_name": "Martin"
+      },
+      {
+        "id": 7,
+        "first_name": "Joseph",
+        "last_name": "Polizzotto"
+      },
+      {
+        "id": 8,
+        "first_name":"Luke",
+        "last_name": "Wofford"
+      },
+      {
+        "id": 9,
+        "first_name": "Wesley",
+        "last_name": "Bryant"
+      }
+    ]
+  }

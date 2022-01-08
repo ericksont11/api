@@ -1,24 +1,22 @@
-{
-    "topics": [
-      {
-        "id": 1,
-        "topic": "CSS"
-      },
-      {
-        "id": 2,
-        "topic": "JavaScript"
-      },
-      {
-        "id": 3,
-        "topic": "Node"
-      },
-      {
-        "id": 4,
-        "topic": "SQL"
-      },
-      {
-        "id": 5,
-        "topic": "React"
-      }
-    ]
+[
+  {
+    "id": 1,
+    "topic": "CSS"
+  },
+  {
+    "id": 2,
+    "topic": "JavaScript"
+  },
+  {
+    "id": 3,
+    "topic": "Node"
+  },
+  {
+    "id": 4,
+    "topic": "SQL"
+  },
+  {
+    "id": 5,
+    "topic": "React"
   }
+]

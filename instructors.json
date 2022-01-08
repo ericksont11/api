@@ -1,19 +1,20 @@
-{
-    "instructors": [
-      {
-        "id": 1,
-        "first_name": "Alper",
-        "last_name": "Gokcehan"
-      },
-      {
-        "id": 2,
-        "first_name": "Noah",
-        "last_name": "King"
-      },
-      {
-        "id": 3,
-        "first_name": "Stephen",
-        "last_name": "Woosley"
-      }
-    ]
-}
+[
+  {
+    "id": 1,
+    "first_name": "Alper",
+    "last_name": "Gokcehan",
+    "classes_taught": 15
+  },
+  {
+    "id": 2,
+    "first_name": "Noah",
+    "last_name": "King",
+    "classes_taught": 10
+  },
+  {
+    "id": 3,
+    "first_name": "Stephen",
+    "last_name": "Woosley",
+    "classes_taught": 6
+  }
+]

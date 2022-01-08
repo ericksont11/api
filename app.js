@@ -11,7 +11,7 @@ app.get('/students', (req, res) => {
   res.send(students)
 })
 
-app.get('/expertise', (req, res) => {
+app.get('/topics', (req, res) => {
   res.send(topics)
 })
 

@@ -9,8 +9,10 @@ const cors = require('cors')
 app.use(cors())
 
 app.get('/students/:key', (req, res) => {
-  let params = req.params
-  res.send(params)
+  const key = req.params.key
+  if(key === 1){
+    res.send({"data":"none"})
+  }
 })
 
 app.get('/topics', (req, res) => {
